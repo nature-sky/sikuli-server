@@ -1,0 +1,2 @@
+module SikuliHelper
+end
